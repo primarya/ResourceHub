@@ -1,2 +1,2 @@
-# ArticlesHub
-articles sharing
+# ResourceHub
+resource sharing
