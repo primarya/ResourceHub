@@ -1,2 +1,2 @@
 # ResourceHub
-resource sharing
+resources sharing
